@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 No NO no nO.
+=======
+what can I say?
+>>>>>>> feature1
